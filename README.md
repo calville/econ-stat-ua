@@ -8,7 +8,7 @@ Project is to analyze relationship between different regional statistical indica
 
 ## Project tasks:
 
-1. Perform an Exploratory Data Analysis in order to understand the dataset by summarizing its main characteristics, cleaning and structuring raw data.
+- Perform an Exploratory Data Analysis in order to understand the dataset by summarizing its main characteristics, cleaning and structuring raw data.
 
    - Data Wrangling:
 
@@ -22,7 +22,7 @@ Project is to analyze relationship between different regional statistical indica
      - P-value
      - Scatterplots with fitted lines
 
-2. Model Development, Evaluation and Refinement.
+- Model Development, Evaluation and Refinement.
 
    - Linear Regression (Building, testing and evaluation of the model)
    - Multiple Linear Regression (Feature selection; Building, testing and evaluation of the model)
