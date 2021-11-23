@@ -10,23 +10,23 @@ Project is to analyze relationship between different regional statistical indica
 
 1. Perform an Exploratory Data Analysis in order to understand the dataset by summarizing its main characteristics, cleaning and structuring raw data.
 
-  - Data Wrangling:
+   - Data Wrangling:
 
-    - Data size, Data type, Missing data, Duplicate data, Outliers
-    - Data Normalization
-    - Binning for grouped analysis
+     - Data size, Data type, Missing data, Duplicate data, Outliers
+     - Data Normalization
+     - Binning for grouped analysis
 
-    - Correlation Analysis:
+   - Correlation Analysis:
 
-      - Pearson coefficient
-      - P-value
-      - Scatterplots with fitted lines
+     - Pearson coefficient
+     - P-value
+     - Scatterplots with fitted lines
 
 2. Model Development, Evaluation and Refinement.
 
-  - Linear Regression (Building, testing and evaluation of the model)
-  - Multiple Linear Regression (Feature selection; Building, testing and evaluation of the model)
-  - Polynomial Regression (Finding out optimal order for model; Pipelines; Building, testing and evaluation of the model)
+   - Linear Regression (Building, testing and evaluation of the model)
+   - Multiple Linear Regression (Feature selection; Building, testing and evaluation of the model)
+   - Polynomial Regression (Finding out optimal order for model; Pipelines; Building, testing and evaluation of the model)
 
 
 ## Environment
